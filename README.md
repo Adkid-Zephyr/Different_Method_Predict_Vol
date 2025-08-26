@@ -4,6 +4,8 @@ Replicate the study 'Can LSTM outperform volatility-econometric models?' with SS
 
 ---
 
+![Python](https://img.shields.io/badge/python-3.9-blue.svg)
+
 <a name="english"></a>
 
 # Realized Volatility Prediction using HAR and LSTM Models
