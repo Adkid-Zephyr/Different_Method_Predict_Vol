@@ -1,1 +1,1 @@
-Mainly update the model, Comparing Ridge and Garch and visualize. Found that pure Garch sucks, then adapt it with BPV, GJR, making a Mixed model. perform better. Direction accuracy 66%
+Mainly update the model, Comparing Ridge and Garch and visualize.  Found that pure Garch sucks, then adapt it with BPV, GJR, making a Mixed model. perform better. Direction accuracy 66%
